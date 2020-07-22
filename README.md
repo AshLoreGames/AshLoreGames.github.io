@@ -1,3 +1,3 @@
 ---
-permalink: /wordpress/index.php
+permalink: /index.html
 ---
